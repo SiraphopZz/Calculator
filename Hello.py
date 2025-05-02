@@ -1,2 +1,7 @@
 print("Hello World!")
-print("Hello Zeza")
+
+name = 'Siraphop'
+lastname = 'Deschanin'
+
+fullname = name + ' ' + lastname
+print(fullname)
