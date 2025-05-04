@@ -1,7 +1,7 @@
 print("Hello World!")
 
-name = 'Siraphop'
-lastname = 'Deschanin'
+name = 'cat'
+lastname = 'dog'
 
 fullname = name + ' ' + lastname
 print(fullname)
